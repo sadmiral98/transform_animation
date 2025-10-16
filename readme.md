@@ -5,12 +5,9 @@ you can use this as a toggle too if you want.
 
 <p>Just put this in the footer :</p>
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/sadmiral98/transform_animation/dist/js/transform_anim.min.js"></script>
+`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/sadmiral98/transform_animation/dist/js/transform_anim.min.js"></script>`
 
-Requirement :
-- No Requirement ;)
-
-Available transform style :
+<p>Available transform style :</p>
 Style | Animation Code
 --- | --- 
 Clockwise Rotation | rotate-right
@@ -23,6 +20,9 @@ Card Flip | flip
 Morph | morph
 Wave | wave
 Bounce | bounce
+
+<p>Requirement :</p>
+- No Requirement ;)
 
 Contact me :
 - [Email](mailto:rizkysptr3798@gmail.com)
