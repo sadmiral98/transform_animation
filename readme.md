@@ -25,6 +25,6 @@ Bounce | bounce
 <p>Requirement :</p>
 - No Requirement ;)
 
-Contact me :
+<p>Contact me :</p>
 - [Email](mailto:rizkysptr3798@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/rizkyputra98/)
