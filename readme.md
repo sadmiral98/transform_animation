@@ -8,6 +8,7 @@ you can use this as a toggle too if you want.
 `<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/sadmiral98/transform_animation/dist/js/transform_anim.min.js"></script>`
 
 <p>Available transform style :</p>
+
 Style | Animation Code
 --- | --- 
 Clockwise Rotation | rotate-right
